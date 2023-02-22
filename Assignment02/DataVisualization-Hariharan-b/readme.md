@@ -1,3 +1,26 @@
+# HR Analytics Project
+
+This project aims to analyze the HR dataset and provide insights about the employees of an organization. The project includes data cleaning, data visualization, and data analysis using R programming language and ggplot2 library.
+
+## Dataset
+
+The HR dataset contains information about the employees, such as their demographic data, job details, salary, performance, and satisfaction scores. The dataset is not real and is used only for educational purposes.
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository or download the files.
+
+2. Open the R script file in RStudio or any other R environment.
+
+3. Run the code to import the dataset, clean the data, and create visualizations.
+
+4. Customize the code as per the requirements.
+
+5. The visualizations include bar graphs, density plots, box plots, and pie charts to understand the data distribution.
+
+
 ![Rplot](https://user-images.githubusercontent.com/114388722/220673543-0f5a67eb-0186-4785-941a-91b51492351d.png)
 ![Rplot01](https://user-images.githubusercontent.com/114388722/220673631-72259f48-b3ef-4b32-b692-b68b95222a41.png)
 ![Rplot02](https://user-images.githubusercontent.com/114388722/220673639-4a282891-4f7a-45cc-9379-42d7e36c5afd.png)
